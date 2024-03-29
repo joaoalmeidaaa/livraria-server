@@ -18,8 +18,13 @@
 ## Como Usar
 
 1. **Clone este repositório.**
-   ```bash
-   git clone https://github.com/seu-usuario/livraria-almeida-backend.git
+   git clone  https://github.com/seu-usuario/livraria-almeida-backend.git
+
+
+ 2.  **Inicie a aplicação**
+Use o comando  `nodemon app.js`.
+   
+  
 
  ## Instale as dependências.
   npm install
